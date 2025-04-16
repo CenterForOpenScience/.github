@@ -33,8 +33,8 @@ The [Open Science Framework (OSF)](https://osf.io) is a free, open-source platfo
 
 OSF is powered by several open-source repositories maintained here on GitHub. These services work together to deliver OSF's platform functionality:
 
-- [`osf.io`](https://github.com/CenterForOpenScience/osf.io) – The core backend platform (Python/Django)
-- [`osf-angular`](https://github.com/CenterForOpenScience/osf-angular) – The modern Angular-based frontend **Coming Soon!**
+- [`osf.io`](https://github.com/CenterForOpenScience/osf.io)[link coming soon] – The core backend platform (Python/Django)
+- [`osf-angular`](https://github.com/CenterForOpenScience/osf-angular) [link coming soon]– The modern Angular-based frontend 
 - [`waterbutler`](https://github.com/CenterForOpenScience/waterbutler) – Unified file storage and transfer API
 - [`gravy-valet`](https://github.com/CenterForOpenScience/gravyvalet) – Add-on integrations and service coordination
 
@@ -45,12 +45,12 @@ OSF is powered by several open-source repositories maintained here on GitHub. Th
 
 We welcome contributions from all backgrounds! Whether you’re a developer, designer, researcher, or open science enthusiast, there’s a place for you here.
 
-Start with our [Contributing Guide](#link-to-contributing-doc) to learn how to:
+Start with our [Contributing Guide](#link-to-contributing-doc) [link coming soon] to learn how to:
 - Set up a local dev environment
 - Submit issues and feature requests
 - Make your first pull request
 
-Please read our [Governance Document](#link-to-governance-doc) to understand how decisions are made and how community members can get involved.
+Please read our [Governance Document](#link-to-governance-doc) [link coming soon] to understand how decisions are made and how community members can get involved.
 
 ---
 
@@ -68,13 +68,13 @@ Stay connected and get involved:
 ## 🚧 Projects & Roadmap
 
 - **Explore Active Repositories:**  
-  Our current open-source projects can be found under the [Projects tab](https://github.com/CenterForOpenScience?tab=repositories).
+  Our current open-source projects can be found under the [Projects tab](https://github.com/orgs/CenterForOpenScience/projects?query=is%3Aopen).
 
 - **OSF Product Roadmap:**  
   Curious about what’s next for OSF? Check out the [COS Product Roadmap](https://www.cos.io/product-roadmap).
 
 - **Understanding GitHub Labels:**  
-  Tasks are labeled by type, priority, and skill level. Learn what each tag means in our [Tag Guide](#link-to-doc).
+  Tasks are labeled by type, priority, and skill level. Learn what each tag means in our [Tag Guide](#link-to-doc) [link coming soon].
 
 All skill levels and backgrounds are welcome—whether you're a developer, researcher, librarian, or just open science curious.
 ---
