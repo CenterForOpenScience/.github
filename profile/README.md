@@ -3,7 +3,7 @@
 
 We’re so glad you’re here!
 
-The **Center for Open Science (COS)** is a nonprofit organization dedicated to increasing openness, integrity, and reproducibility of research. Our flagship platform, the **[Open Science Framework (OSF)](https://osf.io/)**, supports researchers across the full research lifecycle—from planning and preregistering studies, to sharing data, code, and preprints. For a complete list of our Community documentation, please see our [Community repository](https://github.com/CenterForOpenScience/community)
+The **Center for Open Science (COS)** is a nonprofit organization dedicated to increasing openness, integrity, and reproducibility of research. Our flagship platform, the **[Open Science Framework (OSF)](https://osf.io/)**, supports researchers across the full research lifecycle—from planning and preregistering studies, to sharing data, code, and preprints.
 
 This GitHub space is home to the open-source development behind OSF and related tools. We welcome contributions and collaboration from researchers, developers, community builders, and anyone interested in open science.
 
@@ -74,7 +74,7 @@ Stay connected and get involved:
   Curious about what’s next for OSF? Check out the [COS Product Roadmap](https://www.cos.io/product-roadmap).
 
 - **Understanding GitHub Labels:**  
-  Tasks are labeled by type, priority, and skill level. Learn what each tag means in our [Tag Guide](#link-to-doc) [link coming soon].
+  Tasks are labeled by type, priority, and skill level. Learn what each tag means in our [Tag Guide](https://github.com/CenterForOpenScience/community/blob/main/TagsForOpenSouceProjectManagement).
 
 All skill levels and backgrounds are welcome—whether you're a developer, researcher, librarian, or just open science curious.
 ---
