@@ -1,7 +1,7 @@
 ***readme is currently being developed and links may not be active***
 # 👋 Welcome to the Center for Open Science GitHub
 
-We’re so glad you’re here!
+We’re so glad you’re here! For Full open-source community documentation, please see our [Community Repo](https://github.com/CenterForOpenScience/community)
 
 The **Center for Open Science (COS)** is a nonprofit organization dedicated to increasing openness, integrity, and reproducibility of research. Our flagship platform, the **[Open Science Framework (OSF)](https://osf.io/)**, supports researchers across the full research lifecycle—from planning and preregistering studies, to sharing data, code, and preprints.
 
