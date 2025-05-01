@@ -1,4 +1,4 @@
-***readme is currently being developed and links may not be active***
+
 # 👋 Welcome to the Center for Open Science GitHub
 
 We’re so glad you’re here! For Full open-source community documentation, please see our [Community Repo](https://github.com/CenterForOpenScience/community)
