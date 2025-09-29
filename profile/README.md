@@ -93,9 +93,10 @@ There are lots of ways to contribute:
 - Participate in community events
 - Advocate for open science in your own networks
 
-Thanks for stopping by! Whether you're here to explore, contribute, or learn, welcome to the COS community. Every voice matters. Let’s build the future of open science together. 🌍
+Thanks for stopping by! Whether you're here to explore, contribute, or learn, welcome to the COS community. Every voice matters. Let’s build the future of open science together. 🌍 This open source project was originally started by NSF 22-572: POSE: Phase II: Open-Source Ecosystem to enable Open Scholarship
 
 ---
 
 🔗 **[Back to COS website](https://www.cos.io)** | 📄 **[View OSF](https://osf.io)** | 📬 **Contact us at contact@cos.io**
+
 
